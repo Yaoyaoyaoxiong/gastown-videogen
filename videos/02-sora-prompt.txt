@@ -1,0 +1,11 @@
+Tech visualization video, cinematic concept art style, dark navy blue (#1E2140) background,
+glowing blue-cyan (#4B72EF, #00A4A6) nodes and connections, 3D perspective with depth-of-field,
+smooth cinematic transitions, dynamic motion feel, 1280x720, 12 seconds duration.
+
+Scene 1 (0:00-0:04): A massive holographic Kanban board floating in a dark futuristic control room. The board has three vertical columns: Ready (left), In Progress (center), Done (right). Each column contains glowing spherical beads—orange beads in Ready column, blue pulsing beads in In Progress, green stable beads in Done. Thin glowing dependency lines connect related beads across columns.
+
+Scene 2 (0:04-0:08): A Polecat worker robot in the foreground reaches out its robotic arm toward the holographic task board. Motion blur on the arm as it grabs an orange glowing bead from the Ready column. As the bead is claimed, it flashes and turns blue, then moves to the In Progress column with a smooth animated transition.
+
+Scene 3 (0:08-0:12): A zoomed-out view showing the complete workflow ecosystem. Wave 1 beads (5 blue beads in In Progress column) simultaneously turn green and move to Done column in a synchronized animation. As they complete, glowing dependency lines pulse and unlock Wave 2 beads.
+
+No audio, no narration, no text overlays. Silent cinematic video only.

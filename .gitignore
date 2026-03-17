@@ -1,0 +1,27 @@
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Beads data (synced via .beads/issues.jsonl)
+.beads/
+
+# Dolt database files (added by bd init)
+.dolt/
+*.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Gas Town runtime (added by gt)
+.runtime/
+.logs/
+.opencode/
+.claude/commands/
+
+# Build artifacts
+videos/filelist.txt

@@ -1,0 +1,11 @@
+Tech visualization video, cinematic concept art style, dark navy blue (#1E2140) background,
+glowing blue-cyan (#4B72EF, #00A4A6) nodes and connections, 3D perspective with depth-of-field,
+smooth cinematic transitions, industrial sci-fi feel, 1280x720, 12 seconds duration.
+
+Scene 1 (0:00-0:04): Cinematic industrial sci-fi scene. Close-up of a teal-accented robot worker (Polecat) pushing a glowing blue-purple data package into a blue transport pipe. Multiple glowing transport pipes extend into the distance on the left side, each with queued data packages bearing numbered halos.
+
+Scene 2 (0:04-0:08): Center-focused view of a massive glowing orange refinery core (sphere) with rotating review gears visible inside. Multiple blue transport pipes converge into this central sphere from the left. The core emits warm orange halo light, illuminating surrounding steam and energy particles.
+
+Scene 3 (0:08-0:12): Wide view showing the complete flow: left side shows multiple blue input pipes with robot workers, center is the glowing orange refinery core, right side features a single wide golden-green output pipe extending into the distance toward a massive storage tower labeled main.
+
+No audio, no narration, no text overlays. Silent cinematic video only.

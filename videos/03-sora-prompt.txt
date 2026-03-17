@@ -1,0 +1,11 @@
+Tech visualization video, cinematic concept art style, dark navy blue (#1E2140) background,
+glowing blue-cyan (#4B72EF, #00A4A6) nodes and connections, 3D perspective with depth-of-field,
+smooth cinematic transitions, dynamic motion feel, 1280x720, 12 seconds duration.
+
+Scene 1 (0:00-0:04): A single small teal-colored robot (Polecat) emerges from a glowing portal on the left side of the frame. The robot has a sleek, futuristic design with glowing cyan accents. As it materializes, it immediately starts working on a floating holographic task node in the center. Motion blur effects emphasize its quick, precise movements.
+
+Scene 2 (0:04-0:08): A dramatic fan-out explosion shot. On the left, a large golden robot mayor (Mayor) with glowing arms outstretched fires five parallel energy trails simultaneously across the frame from left to right. Each trail is a gradient from deep blue to bright teal, leaving behind speed lines and motion blur effects.
+
+Scene 3 (0:08-0:12): Five teal Polecat robots are shown completing their tasks at various task nodes across the frame. In the upper right corner, a silver Witness monitoring tower hovers with a blue-purple glow, emitting thin scanning lines that connect to each Polecat like radar beams tracking multiple targets simultaneously.
+
+No audio, no narration, no text overlays. Silent cinematic video only.

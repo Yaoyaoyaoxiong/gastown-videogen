@@ -1,0 +1,11 @@
+Tech visualization video, cinematic concept art style, dark navy blue (#1E2140) background,
+glowing blue-cyan (#4B72EF, #00A4A6) nodes and connections, 3D perspective with depth-of-field,
+smooth cinematic transitions, dynamic motion feel, 1280x720, 12 seconds duration.
+
+Scene 1 (0:00-0:04): Cinematic sci-fi scene: A glowing digital highway stretches from back-left to front-right in 3D perspective. Five sleek transport vehicles with blue neon engines fly in tight formation (Wave 1), leaving light trails. Left background features a towering control center (Mayor) sending golden signal ripples to all vehicles.
+
+Scene 2 (0:04-0:08): Same digital highway and control tower from different angle. Five Wave 1 vehicles in mid-ground, each showing holographic progress rings with different completion percentages. The two 100% vehicles turn green. Golden signal beams from the control tower connect to each vehicle like GPS tracking.
+
+Scene 3 (0:08-0:12): Same digital highway. All five Wave 1 vehicles now glow solid green and fly ahead faster. Behind them, the sixth vehicle (Wave 2) transitions from orange dashed outline to solid blue glow, its engines igniting and joining the formation.
+
+No audio, no narration, no text overlays. Silent cinematic video only.

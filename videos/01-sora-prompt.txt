@@ -1,0 +1,11 @@
+Tech visualization video, cinematic concept art style, dark navy blue (#1E2140) background,
+glowing blue-cyan (#4B72EF, #00A4A6) nodes and connections, 3D perspective with depth-of-field,
+smooth cinematic transitions, dynamic motion feel, 1280x720, 12 seconds duration.
+
+Scene 1 (0:00-0:04): Cinematic wide shot of a futuristic AI smart city at night. The camera slowly pushes forward from a distant starry sky, revealing a tech town with glowing buildings. In the center stands a massive golden robot mayor radiating warm light. Surrounding it are multiple blue-lit warehouse buildings labeled "Rigs". Small cyan robots move dynamically around the warehouses. Particle effects and soft glows fill the atmosphere.
+
+Scene 2 (0:04-0:08): Medium close-up of the golden robot Mayor at center frame, radiating golden light rays outward in all directions. Light trails connect from the Mayor to surrounding blue warehouse buildings (Rigs). Each light trail carries a glowing task card moving from Mayor to the warehouses. The camera orbits around the Mayor showing the radial distribution pattern.
+
+Scene 3 (0:08-0:12): Dynamic tracking shot following a small cyan robot (Polecat) as it receives a glowing task card from a light trail emanating from the golden Mayor in the background. The Polecat robot carries the task card and moves toward a blue warehouse building (Rig), entering through its door.
+
+No audio, no narration, no text overlays. Silent cinematic video only.
